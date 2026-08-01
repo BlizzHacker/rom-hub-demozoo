@@ -1,5 +1,8 @@
 # Demozoo plugin for ROM Hub
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
+Oklahoma non-profit corporation with 501(c)(3) status pending.
+
 Implements the RPP v1 `search` and `importer` capabilities against
 [Demozoo](https://demozoo.org), the demoscene's catalogue: 386,682
 productions on 2026-07-29, indexed by platform, type, author and party.
